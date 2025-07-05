@@ -11,6 +11,7 @@ function App(){
             <Route path="/*" element={<div>Not Found Page</div>}></Route>
         </Routes>
     </div>
+    
 }
 
 export default App;
